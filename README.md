@@ -189,7 +189,7 @@ Las siguientes capturas muestran las principales pantallas del sistema, desde la
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b12d3a8-dd2e-4add-8ec5-b12338633b70" alt="Interfaz de usuario del módulo de Carta/Menú" width="600" />
+  <img src="https://github.com/user-attachments/assets/d1af79fa-f5a1-4d8f-83de-3d208e3d8520" alt="Interfaz de usuario del módulo de Carta/Menú" width="600" />
   <br>
   <i>Módulo de Carta / Menú.</i>
 </p>
@@ -201,7 +201,7 @@ Las siguientes capturas muestran las principales pantallas del sistema, desde la
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7e632070-421e-4e98-b3e6-85c310677b9c" alt="Interfaz de usuario del módulo de Facturación" width="600" />
+  <img src="https://github.com/user-attachments/assets/b2919abe-b62e-4adc-8454-af841dc1c884" alt="Interfaz de usuario del módulo de Facturación" width="600" />
   <br>
   <i>Módulo de Facturación.</i>
 </p>
@@ -213,7 +213,7 @@ Las siguientes capturas muestran las principales pantallas del sistema, desde la
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99a9a2f3-a012-452f-934c-abae57056a5b" alt="Interfaz de usuario para el Manejo de mesas" width="600" />
+  <img src="https://github.com/user-attachments/assets/9c4a3910-c509-42c6-a8d8-1fbafdb30faa" alt="Interfaz de usuario para el Manejo de mesas" width="600" />
   <br>
   <i>Gestión de Mesas.</i>
 </p>
