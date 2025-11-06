@@ -42,7 +42,7 @@ Módulos clave implementados para asegurar un flujo de trabajo eficiente:
 La estructura del proyecto sigue el **patrón multicapa (DAO – Lógica – Presentación)**, lo que garantiza un código más limpio, mantenible y escalable.
 
 <p align="center">
-<img width="403" height="686" alt="image" src="https://github.com/user-attachments/assets/f373ca8c-80b2-427b-b169-e5f80f9950d2" />
+<img width="403" height="686" alt="image" src="https://github.com/user-attachments/assets/df88a199-07a3-4331-ba50-15b5111e9270" />
 <br>
 </p>
 
