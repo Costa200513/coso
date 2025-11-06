@@ -195,33 +195,33 @@ Las siguientes capturas muestran las principales pantallas del sistema, desde la
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44e09d64-044e-4f0e-87c9-3a219cf771ff" alt="Interfaz de usuario del módulo de Cocina" width="600" />
-  <br>
   <i>Módulo de Cocina.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/44e09d64-044e-4f0e-87c9-3a219cf771ff" alt="Interfaz de usuario del módulo de Cocina" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b2919abe-b62e-4adc-8454-af841dc1c884" alt="Interfaz de usuario del módulo de Facturación" width="600" />
-  <br>
   <i>Módulo de Facturación.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/b2919abe-b62e-4adc-8454-af841dc1c884" alt="Interfaz de usuario del módulo de Facturación" width="600" />  
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cfe0c5b-5f73-4ed2-b965-65e84c4d725d" alt="Interfaz de usuario para la Selección de mesas" width="600" />
-  <br>
   <i>Selección de Mesas.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/7cfe0c5b-5f73-4ed2-b965-65e84c4d725d" alt="Interfaz de usuario para la Selección de mesas" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c4a3910-c509-42c6-a8d8-1fbafdb30faa" alt="Interfaz de usuario para el Manejo de mesas" width="600" />
-  <br>
   <i>Gestión de Mesas.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/9c4a3910-c509-42c6-a8d8-1fbafdb30faa" alt="Interfaz de usuario para el Manejo de mesas" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92adf3c8-0588-4df6-938d-a37b50c94a24" alt="Interfaz de usuario del Resumen" width="600" />
-  <br>
   <i>Resumen e Informes.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/92adf3c8-0588-4df6-938d-a37b50c94a24" alt="Interfaz de usuario del Resumen" width="600" />
 </p>
 
 ---
