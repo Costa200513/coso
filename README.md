@@ -177,21 +177,21 @@ El siguiente esquema describe los pasos que seguiría un usuario (mesero, cajero
 Las siguientes capturas muestran las principales pantallas del sistema, desde la bienvenida hasta la gestión de pedidos y facturación.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3feba958-3e64-4ecf-87c3-c7199cdbfe05" alt="Vista del menú principal del SGR" width="600" />
-  <br>
   <i>Menú Principal del Sistema.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/3feba958-3e64-4ecf-87c3-c7199cdbfe05" alt="Vista del menú principal del SGR" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/716df9df-1f92-4152-b494-d9972b6de7a5" alt="Menú de bienvenida inicial" width="600" />
-  <br>
   <i>Ventana de Bienvenida Inicial.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/716df9df-1f92-4152-b494-d9972b6de7a5" alt="Menú de bienvenida inicial" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1af79fa-f5a1-4d8f-83de-3d208e3d8520" alt="Interfaz de usuario del módulo de Carta/Menú" width="600" />
-  <br>
   <i>Módulo de Carta / Menú.</i>
+  <br>
+  <img src="https://github.com/user-attachments/assets/d1af79fa-f5a1-4d8f-83de-3d208e3d8520" alt="Interfaz de usuario del módulo de Carta/Menú" width="600" />
 </p>
 
 <p align="center">
