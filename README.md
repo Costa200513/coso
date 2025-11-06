@@ -46,21 +46,50 @@ La estructura del proyecto sigue el **patrón multicapa (DAO – Lógica – Pre
 <br>
 </p>
 
-### 1. Capa de Datos y Persistencia
-* **DAO (Data Access Objects):** abstraen y centralizan toda la lógica de comunicación con la base de datos.  
-  Permiten cambiar la tecnología de persistencia (por ejemplo, de MySQL a PostgreSQL) sin afectar la lógica principal.
 
-### 2. Abstracciones y Estructuras (POO)
-* **Clases Abstractas:** definen estructuras comunes y métodos generales que deben seguir las entidades (p. ej. `Producto`).
-* **Clases Concretas:** implementan estas plantillas para crear objetos funcionales (p. ej. `Mesa`, `Bebida`).
-* **Interfaces:** establecen contratos de funcionalidad que garantizan organización y cohesión en el código (p. ej. `MesaService`).
+---
 
-### 3. Manejo de Errores
-* **Excepciones Personalizadas:** gestionan situaciones anómalas (p. ej. `StockInsuficienteException`), evitando fallos inesperados y mejorando la estabilidad del sistema.
+### 1. **Capa de Datos y Persistencia**
+**DAO (Data Access Objects):**  
+Contiene las clases encargadas de comunicarse con la base de datos.  
+Aquí se gestionan las consultas SQL, inserciones, actualizaciones y eliminaciones.  
+Esta capa permite modificar el motor de base de datos (por ejemplo, de MariaDB a PostgreSQL) sin afectar la lógica del sistema.
 
-### 4. Interfaz de Usuario (Capa de Presentación)
-* **Formularios (Forms):** cada ventana representa un módulo funcional (p. ej. Carta, Cocina, Acerca).
-* **Ventana Principal:** actúa como **dashboard central**, coordinando la navegación hacia todas las funcionalidades del sistema.
+---
+
+### 2. **Abstracciones y Estructuras (POO)**
+**Carpeta:** `Clases`  
+Contiene dos subcarpetas principales:
+
+- **abstractas:** define estructuras comunes y métodos generales que deben implementar las clases concretas (por ejemplo, `Producto`).  
+- **concretas:** implementan la funcionalidad completa de las entidades del sistema (por ejemplo, `Mesa`, `Bebida`).
+
+---
+
+### 3. **Manejo de Errores**
+**Carpeta:** `Exepciones`  
+Incluye excepciones personalizadas que controlan errores específicos del sistema, como `StockInsuficienteException`, garantizando estabilidad y control en la ejecución.
+
+---
+
+### 4. **Interfaces (Contratos de Funcionalidad)**
+**Carpeta:** `Interfaces`  
+Define las interfaces que estandarizan la comunicación entre capas (por ejemplo, `CartaService`).  
+Esto mejora la organización y facilita futuras ampliaciones o refactorización del código.
+
+---
+
+### 5. **Capa de Presentación (Interfaz de Usuario)**
+**Carpeta:** `Forms`  
+Contiene las ventanas gráficas del sistema.  
+Cada formulario representa un módulo funcional (por ejemplo: `Carta`, `Cocina`, `Facturación`, `Acerca`).  
+La interfaz se construye con **Swing**, asegurando una experiencia visual clara y práctica.
+
+---
+
+### 6. **Punto de Entrada del Sistema**
+**Carpeta:** `ProgramaPrincipal`  
+Contiene la clase principal `BienvenidaMenuInicial.java`, que actúa como punto de inicio del programa y coordina la apertura del menú principal y los diferentes módulos del sistema.
 
 ---
 
