@@ -92,6 +92,86 @@ Siga estos pasos para ejecutar el sistema correctamente:
 
 ---
 
+## 🧭 Flujo de Uso del Sistema
+
+El siguiente esquema describe los pasos que seguiría un usuario (mesero, cajero o encargado) para utilizar el sistema de manera normal y eficiente en el día a día del restaurante.
+
+---
+
+### 1. 🍽️ Carta
+- Permite **visualizar los productos actuales** del restaurante con la siguiente información:
+  - **Nombre del producto**
+  - **Precio**
+  - **Stock disponible**
+  - **Disponibilidad** (activo/inactivo)
+  - **Categoría** (p. ej. bebida, plato principal, postre)
+- Desde esta ventana también se pueden:
+  - **Modificar productos existentes** (actualizar precio, stock, categoría, etc.).
+  - **Crear nuevos productos** para ampliar la oferta gastronómica.
+- Mantener la carta actualizada es fundamental para evitar errores al registrar pedidos en las mesas.
+
+---
+
+### 2. 🪑 Mesas
+- Muestra las **12 mesas del restaurante**, cada una identificada visualmente según su estado:
+  - 🟥 **Rojo:** Ocupada  
+  - ⬜ **Blanco:** Disponible  
+  - 🟨 **Amarillo:** Reservada  
+  - 🟩 **Verde:** En limpieza  
+- Al seleccionar una mesa disponible:
+  1. Se **abre una cuenta** asociada a esa mesa.  
+  2. Se **asigna el mesero** que la atenderá.  
+  3. Se comienzan a **cargar los pedidos** solicitados por el cliente.  
+- Una vez completados los pedidos, se presiona **“Enviar”** para que sean enviados al módulo **Cocina**.
+
+---
+
+### 3. 👨‍🍳 Cocina
+- En este módulo se **reciben los pedidos enviados desde las mesas**.  
+- Funciona como una **comanda digital**, mostrando los productos pendientes de preparación y su respectivo orden.  
+- Cada pedido puede cambiar su **estado** a medida que avanza en el proceso:
+  - **Pendiente → En preparación → Servido**
+  - También puede marcarse como **Cancelado** si el pedido se anula antes de servirse.
+- Este módulo permite que los cocineros gestionen la secuencia de trabajo y los meseros verifiquen el progreso de los pedidos.
+
+---
+
+### 4. 💰 Facturación
+- Una vez que el cliente solicita pagar su cuenta:
+  1. Ingresar al módulo **Facturas**.  
+  2. **Seleccionar la mesa** correspondiente.  
+  3. Elegir el **método de pago** (efectivo, tarjeta, etc.).  
+  4. Aplicar un **descuento del 5%, 10% o 15%** si corresponde.  
+  5. Generar el **comprobante de pago** para el cliente.  
+- Al cerrar la cuenta, la mesa vuelve automáticamente al estado **disponible**.
+
+---
+
+### 5. 📊 Resumen
+- Módulo destinado al **análisis y control general** del restaurante.  
+- Permite:
+  - Consultar los **pedidos realizados en el día**.  
+  - Ver los **pedidos por cada mesa**.  
+  - Identificar los **tres productos más vendidos** del día.  
+- Es una herramienta clave para el encargado o administrador al cierre de la jornada.
+
+---
+
+### ✅ Flujo General Resumido
+
+1. **Carta:** Configurar o actualizar productos.  
+2. **Mesas:** Seleccionar mesa, abrir cuenta y asignar mesero.  
+3. **Pedidos:** Registrar pedidos y enviarlos a cocina.  
+4. **Cocina:** Preparar los pedidos y actualizar su estado.  
+5. **Facturas:** Cobrar al cliente, aplicar descuentos y generar comprobante.  
+6. **Resumen:** Revisar pedidos del día y estadísticas generales.
+
+---
+
+> Este flujo refleja el funcionamiento real de un restaurante profesional, garantizando una gestión ordenada, fluida y eficiente desde la toma del pedido hasta la facturación final.
+
+---
+
 ## 🖥️ Módulos de la Interfaz (Screenshots)
 
 Las siguientes capturas muestran las principales pantallas del sistema, desde la bienvenida hasta la gestión de pedidos y facturación.
